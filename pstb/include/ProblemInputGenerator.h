@@ -20,6 +20,7 @@ class ProblemInputGenerator
         friend ProblemSetterToolBox;
 
         ProblemInputGenerator & operator << ( string text );
+        ProblemInputGenerator & operator << ( int integer );
 
     private:
         ofstream input_file;

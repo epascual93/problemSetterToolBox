@@ -13,8 +13,13 @@ ProblemInputGenerator::ProblemInputGenerator(
     input_file.open(filePath);
 }
 
-ProblemInputGenerator & ProblemInputGenerator::operator << ( string text){
+ProblemInputGenerator & ProblemInputGenerator::operator << ( string text ){
     input_file << text;
+    return *this;
+}
+
+ProblemInputGenerator & ProblemInputGenerator::operator << ( int integer ){
+    input_file << integer;
     return *this;
 }
 

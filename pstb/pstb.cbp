@@ -34,6 +34,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/PSTBConfig.h" />
 		<Unit filename="include/ProblemInputGenerator.h" />
 		<Unit filename="include/ProblemSetterToolBox.h" />
 		<Unit filename="main.cpp" />
