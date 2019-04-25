@@ -13,5 +13,6 @@ With the following chunk of code you create 100 data set files, each one contain
         }
     }
 
-The data sets will be created inside a folder called `input` of the actual directory, and they will be named 001.in, ... 100.in
-The __input folder__ must exits.
+The data sets will be created inside a folder called `input` of the actual directory, and they will be named 001.in, ... 100.in.
+The __input folder__ must exists.
+

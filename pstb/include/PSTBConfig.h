@@ -2,6 +2,8 @@
 #define PSTBCONFIG_H_INCLUDED
 
 #define PATH_SEPARATOR "\\"
+#define INITIAL_COUNTER 1
 #define INPUT_EXTENSION ".in"
+#define OUTPUT_EXTENSION ".out"
 
 #endif // PSTBCONFIG_H_INCLUDED

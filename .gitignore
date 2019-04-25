@@ -1,6 +1,7 @@
 ### Mi own ignores...
 *.in
-pstb.layout
+pstb/pstb.layout
+pstb/generate_output.bat
 
 ###Github C++ ignores...
 # Prerequisites
