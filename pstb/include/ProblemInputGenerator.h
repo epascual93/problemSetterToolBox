@@ -19,6 +19,8 @@ class ProblemInputGenerator
 
         friend ProblemSetterToolBox;
 
+        ProblemInputGenerator & operator << ( string text );
+
     private:
         ofstream input_file;
 
