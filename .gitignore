@@ -1,3 +1,9 @@
+### Mi own ignores...
+*.in
+pstb/pstb.layout
+pstb/generate_output.bat
+
+###Github C++ ignores...
 # Prerequisites
 *.d
 
@@ -30,3 +36,4 @@
 *.exe
 *.out
 *.app
+

@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1556231202 source:d:\workspace\problemsettertoolbox\pstb\main.cpp
+	<bits/stdc++.h>
+	"ProblemSetterToolBox.h"
+	"ProblemInputGenerator.h"
+	<random>
+
+1556221980 source:d:\workspace\problemsettertoolbox\pstb\src\probleminputgenerator.cpp
+	"ProblemInputGenerator.h"
+
+1556221980 d:\workspace\problemsettertoolbox\pstb\include\probleminputgenerator.h
+	<string>
+	<fstream>
+	<cstdio>
+	"ProblemSetterToolBox.h"
+	"PSTBConfig.h"
+
+1556231134 d:\workspace\problemsettertoolbox\pstb\include\problemsettertoolbox.h
+	<string>
+	<list>
+	"ProblemInputGenerator.h"
+	"PSTBConfig.h"
+
+1556231194 source:d:\workspace\problemsettertoolbox\pstb\src\problemsettertoolbox.cpp
+	"ProblemSetterToolBox.h"
+
+1556226974 d:\workspace\problemsettertoolbox\pstb\include\pstbconfig.h
+
